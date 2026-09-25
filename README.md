@@ -47,3 +47,7 @@ flutter build web --release
 Deployment to GitHub Pages happens automatically via GitHub Actions on every push to `main`
 (see [.github/workflows/deploy.yml](.github/workflows/deploy.yml)).
 
+## 📄 License
+
+[AGPL-3.0](LICENSE)
+
